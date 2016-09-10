@@ -1,0 +1,4 @@
+;This is an event-based processor (passive)
+;Another should be an queryor (active)
+
+(define (server request pool))
